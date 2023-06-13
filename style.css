@@ -187,23 +187,23 @@ body{
 }
 .animation{
     position: absolute;
-    bottom: -29%;
+    bottom: -32%;
 }
 .design{
     position: absolute;
-    bottom: -29%;
+    bottom: -32%;
 }
 .photography{
     position: absolute;
-    bottom: -74%;
+    bottom: -77%;
 }
 .crypto{
     position: absolute;
-    bottom: -74%;
+    bottom: -77%;
 }
 .bussiness{
     position: absolute;
-    bottom: -74%;
+    bottom: -77%;
 }
 .brick-title{
     color: #13183F;
@@ -219,11 +219,11 @@ body{
 }
 .two{
     width: 90%;
-    margin-top:20px;
+    margin-top:30px;
 }
 .three{
     width: 95%;
-    margin-top:20px;
+    margin-top:30px;
 }
 .four{
     width: 90%;

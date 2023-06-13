@@ -18,7 +18,7 @@ body{
     width: 100%;
     display: grid;
     grid-template-columns: 0.9fr 1fr 1fr 1fr 1fr 1fr 1fr 0.5fr 0.1fr 0.1fr 1fr 1fr;
-    grid-template-rows: 0.6fr 1.5fr 1.1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 0.8fr 1.5fr 1.1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 .table2{
     height: 120vh;
@@ -79,7 +79,7 @@ body{
     font-size: 1.125rem;
     font-weight: 600;
     padding: 2.5% 7%;
-    width: 30%;
+    width: 35%;
     border: none;
     background: linear-gradient(#FF6F48, #F02AA6);
     border-radius: 31.5px;
@@ -219,11 +219,9 @@ body{
 }
 .two{
     width: 90%;
-    margin-top: 5px;
 }
 .three{
     width: 90%;
-    margin-top: 10px;
 }
 .four{
     width: 90%;

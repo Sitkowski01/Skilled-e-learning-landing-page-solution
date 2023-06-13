@@ -67,7 +67,7 @@ body{
 .title-text{
     font-size: 1.125rem;
     font-weight: 400;
-    width: 68%;
+    width: 75%;
     color: #83869A;
     line-height: 1.5;
 }
@@ -187,23 +187,23 @@ body{
 }
 .animation{
     position: absolute;
-    bottom: -34%;
+    bottom: -29%;
 }
 .design{
     position: absolute;
-    bottom: -34%;
+    bottom: -29%;
 }
 .photography{
     position: absolute;
-    bottom: -79%;
+    bottom: -74%;
 }
 .crypto{
     position: absolute;
-    bottom: -79%;
+    bottom: -74%;
 }
 .bussiness{
     position: absolute;
-    bottom: -79%;
+    bottom: -74%;
 }
 .brick-title{
     color: #13183F;
@@ -215,19 +215,21 @@ body{
     color: #83869A;
 }
 .one{
-    width: 90%;
+    width: 95%;
 }
 .two{
     width: 90%;
+    margin-top:20px;
 }
 .three{
-    width: 90%;
+    width: 95%;
+    margin-top:20px;
 }
 .four{
     width: 90%;
 }
 .five{
-    width: 90%;
+    width: 95%;
 }
 .margin-brick{
     margin-top: 10px;

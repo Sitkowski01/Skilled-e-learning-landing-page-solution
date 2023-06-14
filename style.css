@@ -18,7 +18,7 @@ body{
     width: 100%;
     display: grid;
     grid-template-columns: 0.9fr 1fr 1fr 1fr 1fr 1fr 1fr 0.5fr 0.1fr 0.1fr 1fr 1fr;
-    grid-template-rows: 0.6fr 1.8fr 1.1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 0.8fr 1.5fr 1.1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 .table2{
     height: 120vh;
@@ -67,7 +67,7 @@ body{
 .title-text{
     font-size: 1.125rem;
     font-weight: 400;
-    width: 75%;
+    width: 68%;
     color: #83869A;
     line-height: 1.5;
 }
@@ -187,23 +187,23 @@ body{
 }
 .animation{
     position: absolute;
-    bottom: -32%;
+    bottom: -34%;
 }
 .design{
     position: absolute;
-    bottom: -32%;
+    bottom: -34%;
 }
 .photography{
     position: absolute;
-    bottom: -77%;
+    bottom: -79%;
 }
 .crypto{
     position: absolute;
-    bottom: -77%;
+    bottom: -79%;
 }
 .bussiness{
     position: absolute;
-    bottom: -77%;
+    bottom: -79%;
 }
 .brick-title{
     color: #13183F;
@@ -215,27 +215,22 @@ body{
     color: #83869A;
 }
 .one{
-    width: 95%;
+    width: 90%;
 }
 .two{
     width: 90%;
-    margin-top:30px;
 }
 .three{
-    width: 95%;
-    margin-top:25px;
+    width: 90%;
 }
 .four{
     width: 90%;
 }
 .five{
-    width: 95%;
+    width: 90%;
 }
 .margin-brick{
-    margin-top: 30px;
-}
-.margin-brick-one{
-    margin-top: 30px;
+    margin-top: 10px;
 }
 .get-started{
     font-size: 18px;
@@ -243,7 +238,7 @@ body{
     font-weight: 700;
 }
 .second,.third{
-    margin-top: 45px;
+    margin-top: 23px;
 }
 .first-brick-text{
     width: 80%;
